@@ -1,0 +1,30 @@
+drop table AUX_BUS_USEDBY_SUBCAT;
+drop table AUX_BUS_USEDBY_ATTR;
+drop table AUX_BUS_USEDBY_LOC;
+drop table AUX_BUS_USEDBY_DAY;
+drop table AUX_BUS_USEDBY_FROM;
+drop table AUX_BUS_USEDBY_TO;
+drop table AUX_MC_SC_AT_LOC_DAY_FROM_TO;
+drop table AUX_MC_SC_AT_LOC_DAY_FROM;
+drop table AUX_CAT_SUBCAT_ATTR_LOC_DAY;
+drop table AUX_CAT_SUBCAT_ATTR_LOC;
+drop table AUX_CAT_SUBCAT_ATTR;
+drop table AUX_CAT_SUBCAT;
+drop table review;
+drop table friend;
+drop table elite;
+drop table yelp_user;
+drop table checkin;
+drop table attributes;
+drop table subcategory;
+drop table category;
+drop table hours;
+drop table business;
+drop index hrs_index;
+drop index cat_index;
+drop index subcat_index;
+drop index att_index;
+drop index checkin_index;
+drop index review_index;
+
+
